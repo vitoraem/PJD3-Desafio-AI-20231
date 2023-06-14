@@ -104,10 +104,10 @@ namespace ChallengeAI
         } 
       };
 
-      gameObject.AddComponent<TournamentController>();
+      // gameObject.AddComponent<TournamentController>();
 
-      var profilerFeatures = new ProfilerFeatures();
-      profilerFeatures.Init();
+      // var profilerFeatures = new ProfilerFeatures();
+      // profilerFeatures.Init();
     }
 
     private void PrepareHud() {
